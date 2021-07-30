@@ -1,0 +1,15 @@
+.container{
+	width: 60%;
+}
+h1{
+	background-color: green;
+	text-align: center;
+	color:white;
+}
+.accordion-body{
+	background-color: #6610f2;
+}
+.bg-secondary{
+	background-color: blue;
+	color: red;
+}
